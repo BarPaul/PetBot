@@ -1,0 +1,10 @@
+{
+    "PET1_ID": {
+        "name": "PET1_NAME",
+        "emoji": "PET1_EMOJI"
+    },
+    "PET2_ID": {
+        "name": "PET2_NAME",
+        "emoji": "PET2_EMOJI"
+    },
+}

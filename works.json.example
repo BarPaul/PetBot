@@ -1,0 +1,24 @@
+{
+    "PET_ID": {
+        "bad": [
+            {
+                "title": "FIRST TITLE BAD ACTION",
+                "description": "DESCRIPTION OF ACTION"
+            },
+            {
+                "title": "SECOND TITLE BAD ACTION",
+                "description": "DESCRIPTION OF ACTION"
+            },
+        ],
+        "good": [
+            {
+                "title": "FIRST TITLE GOOD ACTION",
+                "description": "DESCRIPTION OF ACTION"
+            },
+            {
+                "title": "SECOND TITLE GOOD ACTION",
+                "description": "DESCRIPTION OF ACTION"
+            },
+        ]
+    },
+}
